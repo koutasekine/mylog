@@ -1,16 +1,16 @@
-# マイログ v0.41(仕様書 版 0.35。変更なし)。リポジトリのルートに展開する。全ファイル投入可。
-# 変更: README のプロジェクト計画へのリンクを [文字](URL) の形にした(URL の後ろに続く文字がリンクに入っていた)
+# マイログ v0.42(仕様書 版 0.36)。リポジトリのルートに展開する。全ファイル投入可。
+# 変更: README・書き方(使い方)の「ほかのアプリとの関係」を一般の利用向けに書き直した。マイログは単体でも記録帳として使えること、プロジェクト分析は計画書だけ・マイログだけ・両方のどれでも読めることを書き、組み合わせの例を 6 つ(そのアプリが入るもの)にした。組み合わせ方は使う人が決める。仕様書 1.2 節も合わせた。コードの変更なし
 # 検査の期待値の変更: なし
 ab08141e05fe7332260ddb3c1b8fb684  CNAME
 5ec64f26876e09835b1e5e225c805086  LICENSE
-7ba07d222b5b6eacedd8003a7fbbdec3  README.md
+8270d69a87d1c56e2d9f56f10d0e92a1  README.md
 6d9515860ea3be3d714ffef06e1b397d  dev/build.py
 2cfb2f3e65ac56f02435e821f147e7c4  dev/core.js
-08dc35c3c038262c39da89ab7867ecae  dev/help.html
+9460a7d6c4717207dd748137d913e98f  dev/help.html
 69924165a054f7e6110c0194de99c134  dev/logcore.js
 c5753346f2371a402a129dee1d69c4b9  dev/ui.js
-b5fae347f224d7ee6fd1fdab23ad049b  docs/spec.md
-7b652371e98b738b6c1360a64017b1a3  index.html
+db5f5f0bd5496e209feda9763e9779aa  docs/spec.md
+f4f85b0b106b2547cc276804af09b828  index.html
 d9d63ff4da333d7e29741d81a999c1b6  test/logcore_test.cjs
 ed8a237801d160f4001e1818213a916a  test/sample.mylog
 fb1296f39bedadbc6d4be0e1b4e92b97  test/sample.plan
