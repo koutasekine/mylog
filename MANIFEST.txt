@@ -1,0 +1,18 @@
+# マイログ v0.40(仕様書 版 0.35)。リポジトリのルートに展開する。全ファイル投入可。
+# 変更: README・書き方(使い方)に「ほかのアプリとの関係」の節を足した(計画書の要・不要、組み合わせの例。組み合わせ方はプロジェクトを運営する人が決める)。仕様書 1.2 節にも同じ関係を書いた。コードの変更なし
+# 検査の期待値の変更: なし
+ab08141e05fe7332260ddb3c1b8fb684  CNAME
+5ec64f26876e09835b1e5e225c805086  LICENSE
+5dc213cf4089f112cf8d1bf28eb1edb0  README.md
+6d9515860ea3be3d714ffef06e1b397d  dev/build.py
+2cfb2f3e65ac56f02435e821f147e7c4  dev/core.js
+08dc35c3c038262c39da89ab7867ecae  dev/help.html
+69924165a054f7e6110c0194de99c134  dev/logcore.js
+c5753346f2371a402a129dee1d69c4b9  dev/ui.js
+b5fae347f224d7ee6fd1fdab23ad049b  docs/spec.md
+7b652371e98b738b6c1360a64017b1a3  index.html
+d9d63ff4da333d7e29741d81a999c1b6  test/logcore_test.cjs
+ed8a237801d160f4001e1818213a916a  test/sample.mylog
+fb1296f39bedadbc6d4be0e1b4e92b97  test/sample.plan
+274ed9f591432f7eab4df02597d4b86b  test/sample_old.plan
+8cb5470261aafe487f710d784a8fc23b  test/ui_test.py
